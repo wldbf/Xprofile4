@@ -143,7 +143,7 @@ body{
 .intro_card>div{
     margin: 8px;
 
-    font-size: 1.02em;
+    font-size: 1.2em;
 }
 
 .intro_card .otherSite{
@@ -174,7 +174,7 @@ body{
 .intro_card .otherSite2{
     position: absolute;
     left: 10%;
-    bottom: 70px;
+    bottom: 80px;
     display: block;
 
     width: 80%;
