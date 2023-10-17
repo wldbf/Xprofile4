@@ -173,6 +173,30 @@ body{
     font-family:'DNFBitBitv2';
 }
 
+.intro_card .otherSite2{
+    position: absolute;
+    left: 10%;
+    bottom: 50px;
+    display: block;
+
+    width: 80%;
+    height: 10%;
+
+    box-shadow: 0 0 3px #00000080;
+
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-decoration: none;
+    background: var(--BtnColor);
+
+    color: var(--BtnTextColor);
+
+    font-family:'DNFBitBitv2';
+}
 
 @media screen and (max-width:290px) {
     .profile_card, .intro_card{
