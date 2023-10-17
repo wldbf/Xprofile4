@@ -43,7 +43,7 @@ body{
 
     transform: translateY(-50%);
     margin-left: 5px;
-    font-size: 0.7em;
+    font-size: 0.9em;
 }
 
 /* 프로필카드 */
@@ -141,15 +141,15 @@ body{
 }
 
 .intro_card>div{
-    margin: 10px;
+    margin: 8px;
 
-    font-size: 1.2em;
+    font-size: 1.02em;
 }
 
 .intro_card .otherSite{
     position: absolute;
     left: 10%;
-    bottom: 30px;
+    bottom: 10px;
     display: block;
 
     width: 80%;
@@ -174,7 +174,7 @@ body{
 .intro_card .otherSite2{
     position: absolute;
     left: 10%;
-    bottom: 120px;
+    bottom: 70px;
     display: block;
 
     width: 80%;
